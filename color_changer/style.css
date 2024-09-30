@@ -1,0 +1,52 @@
+.canvas{
+    display: inline-flexbox;
+    /* flex-wrap:nowrap; */
+    /* background: #000; */
+    border: 5px solid green;
+    color: white;
+    color:rgb(193, 224, 146)
+}
+
+#grey{
+    text-align: center;
+    width: auto;
+    margin: auto;
+    padding: 15px;
+    color: aliceblue;
+    height: 10px;
+    background-color: aqua;
+
+}
+#white{
+    margin: auto;
+    padding: 15px;
+    color: aliceblue;
+    height: 10px;
+    text-align: center;
+    width: auto;
+    background-color: #ffff;
+    color: black;
+
+}
+#yellow{
+    margin: auto;
+    padding: 15px;
+    color: aliceblue;
+    height: 10px;
+    text-align: center;
+    width: auto;
+    background-color: rgb(243, 243, 113);
+    color: black;
+
+
+}
+#blue{
+    margin: auto;
+    padding: 15px;
+    color: aliceblue;
+    height: 10px;
+    text-align: center;
+    width: auto;
+    background-color: blue;
+
+}
